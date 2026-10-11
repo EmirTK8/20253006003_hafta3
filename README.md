@@ -5,7 +5,7 @@
 **Numara :** 20253006003  
 **Ders :** İleri Python Programlama  
 **Öğretim Üyesi :** Dr. Öğr. Üyesi Murat Emeç  
-**GitHub Deposu :** https://github.com/emirtalhak/20253006003_hafta3  
+**GitHub Deposu :** https://github.com/EmirTK8/20253006003_hafta3  
 
 ---
 
